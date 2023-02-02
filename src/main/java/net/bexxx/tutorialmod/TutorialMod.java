@@ -1,14 +1,14 @@
 package net.bexxx.tutorialmod;
 
-import net.bexxx.tutorialmod.block.ModBlocks;
+import net.bexxx.tutorialmod.init.blocks.ModBlocks;
 
-import net.bexxx.tutorialmod.fluid.ModFluids;
-import net.bexxx.tutorialmod.item.ModItems;
-import net.bexxx.tutorialmod.painting.ModPaintings;
-import net.bexxx.tutorialmod.util.ModLootTableModifiers;
-import net.bexxx.tutorialmod.villager.ModVillagers;
-import net.bexxx.tutorialmod.world.feature.ModConfiguredFeatures;
-import net.bexxx.tutorialmod.world.gen.ModOreGeneration;
+import net.bexxx.tutorialmod.init.fluid.ModFluids;
+import net.bexxx.tutorialmod.init.items.ModItems;
+import net.bexxx.tutorialmod.init.paintings.ModPaintings;
+import net.bexxx.tutorialmod.init.util.loot.ModLootTableModifiers;
+import net.bexxx.tutorialmod.init.villager.ModVillagers;
+import net.bexxx.tutorialmod.init.world.feature.ModConfiguredFeatures;
+import net.bexxx.tutorialmod.init.world.gen.ModOreGeneration;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

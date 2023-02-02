@@ -1,30 +1,54 @@
 {
-  "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
-  "item.tutorialmod.tanzanite": "Tanzanite",
-  "block.tutorialmod.tanzanite_block": "Block of Tanzanite",
-  "block.tutorialmod.tanzanite_ore": "Tanzanite ore",
-  "block.tutorialmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.tutorialmod.tanzanite_block":          "Block of Tanzanite",
+  "block.tutorialmod.tanzanite_ore":            "Tanzanite ore",
+  "block.tutorialmod.deepslate_tanzanite_ore":  "Deepslate Tanzanite Ore",
   "block.tutorialmod.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
-  "block.tutorialmod.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
-  "item.tutorialmod.eight_ball": "magic Eightball",
-  "item.tutorialmod.eight_ball_shard": "magic Eight Ball shard",
-  "item.tutorialmod.seven_ball": "magic SevenBall",
-  "item.tutorialmod.seven_ball_shard": "magic SevenBall Shard",
-  "item.tutorialmod.tanzanite_pickaxe": "Tanzanite Pickaxe",
-  "item.tutorialmod.tanzanite_shard": "Tanzanite Shard",
-  "item.tutorialmod.tanzanite_shard_piece": "Tanzanite Shard Piece",
-  "tutorialmod.toolmaterial.custom.omega": "Omega",
-  "item.tutorialmod.omega_pickaxe": "Omega Pickaxe",
-  "item.tutorialmod.raw_ruby": "Raw Ruby",
-  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.endstone_tanzanite_ore":   "Endstone Tanzanite Ore",
+
+  "block.tutorialmod.ruby_block":           "Ruby Block",
+  "block.tutorialmod.ruby_ore":             "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore":   "Deepslate Ruby Ore",
+  "block.tutorialmod.netherrack_ruby_ore":  "Netherrack Ruby Ore",
+  "block.tutorialmod.endstone_ruby_ore":    "Endstone Ruby Ore",
+
   "block.tutorialmod.jump_block": "Jump Block",
+
   "block.tutorialmod.tanzanite_lamp": "Tanzanite Lamp",
-  "item.tutorialmod.eggplant": "Eggplant",
-  "item.tutorialmod.eggplant_seeds": "Eggplant Seeds",
+
   "block.tutorialmod.eggplant_crop": "Eggplant Crop",
-  "item.tutorialmod.soap_water_bucket": "Soap Water Bucket",
+
   "block.tutorialmod.soap_water": "Soap Water",
-  "item.tutorialmod.ruby": "Ruby",
+
+  "item.tutorialmod.tanzanite":     "Tanzanite",
+  "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
+
+  "item.tutorialmod.raw_ruby":  "Raw Ruby",
+  "item.tutorialmod.ruby":      "Rubin",
+
+  "item.tutorialmod.tanzanite_shard":       "Tanzanite Shard",
+  "item.tutorialmod.tanzanite_shard_piece": "Tanzanite Shard Piece",
+
+  "item.tutorialmod.tanzanite_pickaxe": "Tanzanite Pickaxe",
+  "item.tutorialmod.omega_pickaxe": "Omega Pickaxe",
+
+  "item.tutorialmod.eight_ball":        "Magic Eight Ball",
+  "item.tutorialmod.eight_ball_shard":  "Magic Eight Ball shard",
+  "item.tutorialmod.seven_ball":        "Magic SevenBall",
+  "item.tutorialmod.seven_ball_shard":  "Magic SevenBall Shard",
+
+  "item.tutorialmod.eggplant":        "Eggplant",
+  "item.tutorialmod.eggplant_seeds":  "Eggplant Seeds",
+
+  "item.tutorialmod.soap_water_bucket": "Soap Water Bucket",
+
+  "tooltip.tutorialmod.hold_shift":   "Hold Shift for Tips",
+  "tooltip.tutorialmod.hold_ctrl":    "Hold Ctrl for Infos",
+  "tooltip.tutorialmod.hold_alt":     "Hold Alt for Hints",
+
+  "tooltip.omega_pickaxe.shift": "The best Pickaxe you will ever get!",
+
+  "tooltip.tutorialmod.seven_ball.alt": "Funfact about this item:'\u000a' Originally it wasn't even supposed to be added'\u000a' but then I got so bored that I made like 15 recipes'\u000a' and added 5 more blocks to this mod",
+  "tooltip.tutorialmod.eight_ball.shift": "Right Click This Item to get a random Number",
 
 
   "itemGroup.tutorialmod.tab1": "Tutorialmod",
@@ -33,9 +57,8 @@
   "itemGroup.tutorialmod.tab4": "Omega",
   "itemGroup.tutorialmod.tab5": "Plants",
 
-  "entity.minecraft.villager.jumpmaster": "Jump Master",
-  "entity.minecraft.villager.tanzanite_trader": "Tanzanite trader",
-  "entity.minecraft.villager.enchanter": "Enchanter"
-
+  "entity.minecraft.villager.jumpmaster":       "Jump Master",
+  "entity.minecraft.villager.tanzanite_trader": "Tanzanite Trader",
+  "entity.minecraft.villager.enchanter":        "Enchanter"
 
 }

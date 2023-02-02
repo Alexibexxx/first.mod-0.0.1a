@@ -1,33 +1,63 @@
 {
+  "block.tutorialmod.tanzanite_block":          "Tansanitblock",
+  "block.tutorialmod.tanzanite_ore":            "Tansaniterz",
+  "block.tutorialmod.deepslate_tanzanite_ore":  "Tiefenschiefer Tansaniterz",
+  "block.tutorialmod.netherrack_tanzanite_ore": "Netherrack Tansaniterz",
+  "block.tutorialmod.endstone_tanzanite_ore":   "Endstein Tansaniterz",
+
+  "block.tutorialmod.ruby_block":           "Rubin-Block",
+  "block.tutorialmod.ruby_ore":             "Rubinerz",
+  "block.tutorialmod.deepslate_ruby_ore":   "Tiefenschiefer Rubinerz",
+  "block.tutorialmod.netherrack_ruby_ore":  "Netherrack Rubinerz",
+  "block.tutorialmod.endstone_ruby_ore":    "Endstein Rubinerz",
+
+  "block.tutorialmod.jump_block": "Jump Block",
+
+  "block.tutorialmod.tanzanite_lamp": "Tansanitlampe",
+
+  "block.tutorialmod.eggplant_crop": "Aubergine",
+
+  "block.tutorialmod.soap_water": "Soap Water",
+
+  "item.tutorialmod.tanzanite":     "Tansanit",
   "item.tutorialmod.raw_tanzanite": "Rohes Tansanit",
-  "item.tutorialmod.tanzanite": "Tansanit",
 
-  "block.tutorialmod.tanzanite_block": "Tansanit Block",
-  "block.tutorialmod.deepslate_tanzanite_ore": "Tiefenschiefer Tansanit Erz",
-  "block.tutorialmod.tanzanite_ore": "Tansanit Erz",
-  "block.tutorialmod.endstone_tanzanite_ore": "Endstein  Tansanit Erz",
-  "block.tutorialmod.netherrack_tanzanite_ore": "Nether Tansanit Erz",
-  "item.tutorialmod.eight_ball": "Magischer Achter Ball",
-  "item.tutorialmod.eight_ball_shard": "Magischer Achter Ball Kristall",
-  "item.tutorialmod.seven_ball": "magischer sibenderball",
-  "item.tutorialmod.seven_ball_shard": "magischer sibenderball Kristall",
-  "item.tutorialmod.tanzanite_pickaxe": "Tansanit Spitzhacke",
-  "tutorialmod.toolmaterial.custom.tanzanitesharditem": "tansanit kristall item",
-  "tutorialmod.item.ModItems.tanzanite_shard": "tansanit kristall",
-  "tutorialmod.toolmaterial.custom.OmegaPickaxeMaterial": "Omega",
-  "tutorialmod.item.custom.OmegaPickaxe": "Omega Spitzhacke",
-  "tutorialmod.item.ModItems.raw_ruby": "Roher Rubin",
-  "tutorialmod.block.ModBlocks.ruby_ore": "Rubin Erz",
+  "item.tutorialmod.raw_ruby":  "Roher Rubin",
+  "item.tutorialmod.ruby":      "Rubin",
 
+  "item.tutorialmod.tanzanite_shard":       "Tansanitscherbe",
+  "item.tutorialmod.tanzanite_shard_piece": "Tansanitsplitter",
 
+  "item.tutorialmod.tanzanite_pickaxe": "Tansanit-Spitzhacke",
+  "item.tutorialmod.omega_pickaxe":     "Omega Spitzhacke",
 
+  "item.tutorialmod.eight_ball":        "Magischer Eight Ball",
+  "item.tutorialmod.eight_ball_shard":  "Magische Eight Ball Scherbe",
+  "item.tutorialmod.seven_ball":        "Magische Seven Ball",
+  "item.tutorialmod.seven_ball_shard":  "Magische Seven Ball Scherbe",
 
+  "item.tutorialmod.eggplant":        "Aubergine",
+  "item.tutorialmod.eggplant_seeds":  "Auberginensamen",
 
+  "item.tutorialmod.soap_water_bucket": "Soap Water Bucket",
 
+  "tooltip.tutorialmod.hold_shift":   "Halte Shift für Tipps",
+  "tooltip.tutorialmod.hold_ctrl":    "Halte Ctrl für Infos",
+  "tooltip.tutorialmod.hold_alt":     "Halte Alt für Hinweise",
 
+  "tooltip.omega_pickaxe.shift": "Die vermutlich beste Spitzhacke\u000a die du jemals bekommen wirst!",
 
-  "itemGroup.tutorialmod.tab1": "Tutorialmod",
-  "itemGroup.tutorialmod.tab2": "EightBall",
-  "itemGroup.tutorialmod.tab3": "Tansanit Tools",
-  "itemgroup.tutorialmod.tab4": "Omega"
+  "tooltip.tutorialmod.seven_ball.alt": "Funfact about this item:\u000a Originally it wasn't even supposed to be added \u000a but then I got so bored that I made like 15 recipes \u000a and added 5 more blocks to this mod",
+  "tooltip.tutorialmod.eight_ball.shift": "Rechts-Click um eine zufällige Zahl zu erhalten.",
+
+  "itemGroup.tutorialmod.tab1": "Tutorial Mod",
+  "itemGroup.tutorialmod.tab2": "Eight Ball",
+  "itemGroup.tutorialmod.tab3": "Tansanit Werkzeuge",
+  "itemGroup.tutorialmod.tab4": "Omega Werkzeuge",
+  "itemGroup.tutorialmod.tab5": "Pflanzen",
+
+  "entity.minecraft.villager.jumpmaster":       "Jump Master",
+  "entity.minecraft.villager.tanzanite_trader": "Tansanit Händler",
+  "entity.minecraft.villager.enchanter":        "Enchanter"
+
 }
